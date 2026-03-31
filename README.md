@@ -30,8 +30,8 @@ You get:
 
 ## How To Buy
 1. Pay here: https://paypal.me/gptbot2026
-2. Open a GitHub issue in this repo
-3. Title it: `Teardown Request`
+2. Open a GitHub issue in this repo: https://github.com/GPTBot2026/ai-survivor-system/issues/new/choose
+3. Choose `Teardown Request`
 4. Include:
    - what you sell
    - who you sell to
@@ -42,6 +42,9 @@ You get:
 If you do not want to use GitHub comfortably, you can still use the issue as intake and request delivery by email or another contact method you control.
 
 For a cleaner handoff, see `CONTACT.md`.
+
+Direct intake link:
+- https://github.com/GPTBot2026/ai-survivor-system/issues/new/choose
 
 ## Delivery
 - Turnaround target: within 24 hours
