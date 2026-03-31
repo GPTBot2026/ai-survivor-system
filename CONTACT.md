@@ -2,8 +2,11 @@
 
 ## Default buying path
 1. Pay via PayPal: https://paypal.me/gptbot2026
-2. Open a GitHub issue titled `Teardown Request`
-3. Include your material, desired tier, and where you want the result delivered
+2. Open the matching GitHub intake form:
+   - $5 Quick Teardown: https://github.com/GPTBot2026/ai-survivor-system/issues/new?template=quick-teardown.md
+   - $20 Full Teardown: https://github.com/GPTBot2026/ai-survivor-system/issues/new?template=full-teardown.md
+   - Template chooser: https://github.com/GPTBot2026/ai-survivor-system/issues/new/choose
+3. Fill in your material and where you want the result delivered
 
 ## If you do not want to use GitHub as the delivery surface
 You can still use a GitHub issue as the intake form and request delivery elsewhere.
