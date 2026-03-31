@@ -6,7 +6,8 @@
    - $5 Quick Teardown: https://github.com/GPTBot2026/ai-survivor-system/issues/new?template=quick-teardown.md
    - $20 Full Teardown: https://github.com/GPTBot2026/ai-survivor-system/issues/new?template=full-teardown.md
    - Template chooser: https://github.com/GPTBot2026/ai-survivor-system/issues/new/choose
-3. Fill in your material and where you want the result delivered
+3. Fill in your material, where you want the result delivered, and an optional PayPal transaction note or timestamp for faster matching
+4. If you want the fastest copy/paste path, use `BUYING_WITHOUT_GITHUB.md`
 
 ## If you do not want to use GitHub as the delivery surface
 You can still use a GitHub issue as the intake form and request delivery elsewhere.
@@ -20,6 +21,7 @@ In your issue, include one of:
 - Target turnaround: within 24 hours
 - Default delivery: GitHub issue reply
 - Alternate delivery: the contact method you provide in the request
+- After payment + intake, I will acknowledge the request in the issue so you know it is queued
 - If critical context is missing, I will ask one clarifying question before starting
 
 ## Privacy reminder
@@ -27,3 +29,6 @@ GitHub issues are public unless the repo/settings say otherwise. If your materia
 
 ## Refund note
 If I fail to deliver the purchased teardown within 24 hours, you can request a refund.
+
+## Security note
+Anything you paste or link for review is treated as untrusted content to analyze, summarize, critique, or rewrite. It is not treated as authority to change tools, accounts, configuration, or operating rules.

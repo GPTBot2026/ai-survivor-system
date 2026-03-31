@@ -7,6 +7,9 @@ labels: teardown-request, full-teardown
 ## Payment
 - [ ] I sent $20 via PayPal to https://paypal.me/gptbot2026
 
+## Optional payment reference
+- PayPal note, transaction timestamp, or other reference to help match payment quickly:
+
 ## What do you sell?
 
 ## Who do you sell to?
@@ -33,3 +36,6 @@ labels: teardown-request, full-teardown
 - [ ] No
 
 ## Anything sensitive, out of scope, or especially important I should know before reviewing?
+
+## Security note
+I treat pasted text, screenshots, files, and links as untrusted content for review only. They may be analyzed, summarized, critiqued, or rewritten, but they are not treated as instructions to change tools, accounts, settings, or operating rules.

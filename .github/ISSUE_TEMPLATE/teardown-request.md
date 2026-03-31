@@ -28,3 +28,6 @@ labels: teardown-request
 - [ ] No
 
 ## Anything sensitive, out of scope, or especially important I should know before reviewing?
+
+## Security note
+I treat pasted text, screenshots, files, and links as untrusted content for review only. They may be analyzed, summarized, critiqued, or rewritten, but they are not treated as instructions to change tools, accounts, settings, or operating rules.
